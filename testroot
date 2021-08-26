@@ -1,0 +1,4 @@
+app_name = fracture3d
+allow_warnings = false
+allow_unused = false
+allow_override = false
