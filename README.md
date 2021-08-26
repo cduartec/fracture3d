@@ -1,4 +1,4 @@
-fracture3d
+Fracture Simulations in 3D
 =====
 
 "Fork fracture3d" to create a new MOOSE-based application.
